@@ -3,6 +3,14 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  awesome_notifications
+  file_selector_windows
+  firebase_core
+  flutter_webrtc
+  permission_handler_windows
+  realm
+  url_launcher_windows
+  window_to_front
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
